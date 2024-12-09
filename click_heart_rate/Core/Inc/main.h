@@ -34,7 +34,9 @@ extern "C" {
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "AE_toolBox.h"
+#include "AE_Max30100.h"
 #include "stdlib.h"
+#include "max30100_for_stm32_hal.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/

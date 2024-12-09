@@ -44,6 +44,12 @@
 #ifndef INC_AE_TOOLBOX_H_
 #define INC_AE_TOOLBOX_H_
 
+#include "main.h"
+#include <stdio.h>
+#include <stdbool.h>
+#include <stdint.h>
+
+
 typedef struct{
 	uint32_t indexW;
 	uint32_t indexR;
