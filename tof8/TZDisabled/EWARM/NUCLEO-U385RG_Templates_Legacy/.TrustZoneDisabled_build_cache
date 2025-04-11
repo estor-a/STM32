@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\alexandre estor\OneDrive - STMicroelectronics\Documents\IAR_tof8\U3_SW040\Projects\Naquada\App\TZDisabled\EWARM\NUCLEO-U385RG_Templates_Legacy\Exe\Project.out</Path>
+            <Output>
+                <Path>C:\Users\alexandre estor\OneDrive - STMicroelectronics\Documents\IAR_tof8\U3_SW040\Projects\Naquada\App\TZDisabled\EWARM\NUCLEO-U385RG_Templates_Legacy\List\Project.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\alexandre estor\OneDrive - STMicroelectronics\Documents\test\U3_SW040\Projects\Naquada\App\TZDisabled\EWARM\NUCLEO-U385RG_Templates_Legacy\Exe\Project.out</Path>
+            <Output>
+                <Path>C:\Users\alexandre estor\OneDrive - STMicroelectronics\Documents\test\U3_SW040\Projects\Naquada\App\TZDisabled\EWARM\NUCLEO-U385RG_Templates_Legacy\List\Project.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
